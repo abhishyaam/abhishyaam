@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishyaam
-- 👀 I’m interested in Web3 Appliactions
-- 🌱 I’m currently learning Ethereum Developer eco system,,
+- 👀 I’m interested in Web3..
+- 🌱 I’m currently learning to build dApps on Eth chain..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
